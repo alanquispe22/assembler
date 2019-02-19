@@ -1,0 +1,36 @@
+1. Comparé si dos palabras son iguales
+2. Codigo que verifica si una cadena es subcadena de otra
+3. Código que verifique que todos los caracteres de una cadena estén en la otra
+4. programa que reciba una cadena ingresada por teclado, terminada en ENTER. 
+   Luego que elimine todos los caracteres que no son dígitos, 
+   sin utilizar una variable auxiliar.
+5. programa que toma una cadena que representa un número decimal y 
+   escriba su equivalente octal
+
+6. Escribir un programa que tome tres cadenas, la primera y la 
+   tercera representan un número y la segunda una operación, 
+   por ejemplo: “329”, “-“, “21” e imprima el resultado “308”
+
+7. Escribir un programa que imprima X en la pantalla hasta que se presiones ESC.
+8. Escribir un programa que ordene un vector de mayor a menor.
+9. Escribir un programa que halle el MCM Y MCD
+10.Escribir un programa que dibuje una diagonal en la pantalla.
+11.Escribir un programa que lea un archivo y cuente cuantas palabras terminan con la letra a.
+12.Imprimir una cadena
+13.Pedir un nro del 1 al 9, si la entrada es 6 por ej.
+   se debe imprimir:
+   	1
+	12
+	123
+	1234
+	12345
+	123456
+14.Lo mismo que el 13 pero con la salida
+        a
+	ab
+	abc
+	abcd
+	abcde
+15.Programa que despliegua caracteres ASCII
+16. Traslada una cadena larga de una localizacion
+    de memoría a otra.
