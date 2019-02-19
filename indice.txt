@@ -34,3 +34,5 @@
 15.Programa que despliegua caracteres ASCII
 16. Traslada una cadena larga de una localizacion
     de memoría a otra.
+
+17. Genere la siguiente serie: 2,5,2,8,2,11,2,14,...
